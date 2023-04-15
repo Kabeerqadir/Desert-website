@@ -2,4 +2,4 @@
 
 my desert website not responsive
 
-kabeerdesert.netlify.app
+https://kabeerdesert.netlify.app
